@@ -5,7 +5,5 @@ With that beautiful, beautiful material design (or atleast I tried)
 
 https://play.google.com/store/apps/details?id=pietu.nimsolver
 
-
-![sc11](https://cloud.githubusercontent.com/assets/1809062/12678323/d6e3abe0-c6a6-11e5-8c5e-4f63adbe6c36.png)
-![sc22](https://cloud.githubusercontent.com/assets/1809062/12678324/d6fe9586-c6a6-11e5-9e20-c1b3e0707e70.png)
-
+https://cloud.githubusercontent.com/assets/1809062/12678389/0d58322c-c6a7-11e5-8c23-8beb631e08e2.png
+https://cloud.githubusercontent.com/assets/1809062/12678390/0d5a8fae-c6a7-11e5-8563-dd13f9b9f9a6.png
